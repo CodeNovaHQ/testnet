@@ -1,2 +1,3 @@
 # testnet yes
 nice
+yes
