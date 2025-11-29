@@ -1,2 +1,2 @@
-# testnet yes
+# testnet
 nice
